@@ -1,0 +1,6 @@
+{
+  "appId": "dev.skellent.greenhouse",
+  "appName": "Skell's GreenHouse",
+  "webDir": "src",
+  "bundledWebRuntime": false
+}

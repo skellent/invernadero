@@ -1,0 +1,3 @@
+# Exclusion de archivos de compilacion de Client
+src/client/android
+src/client/node_modules
