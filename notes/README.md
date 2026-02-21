@@ -6,3 +6,6 @@ encontrar fragmentos de código "mermaid".
 Ese formáto solo es renderizable en web desde
 el repositorio o mediante herramientas que
 lo permitan (como su web oficial, por ejemplo).
+
+
+> Criso Was Here!
